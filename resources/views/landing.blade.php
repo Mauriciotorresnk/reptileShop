@@ -42,12 +42,19 @@
           </div>
         </div>
     </nav>
+
     <div class="landing">
       <div class="home-wrap">
-        <div class="home-inner" background="url('{{ asset('images/jungle3.jpg') }}')" >
+        <div class="home-inner">
         </div>
       </div>
     </div>
+
+    <div class="caption center-block text-center">
+      <h3>Tu mejor opcion en exoticos</h3>
+      <a class="btn btn-outline-light" href="#about">Comenzar</a>
+    </div>
+
 
     </div>
 
