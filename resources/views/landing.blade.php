@@ -15,9 +15,9 @@
   <body data-spy="scroll" data-target="#navbarResponsive">
     <!--HOME SECTION -->
     <div id="home" >
-      <nav class="navbar navbar-expand-md fied-top">
+      <nav class="navbar navbar-expand-md fixed-top">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#"><img src="img/logo2.png" alt=""/>Einar Exotics</a>
+          <a class="navbar-brand" href="#"><img src="img/logo2.png" alt=""/>  Einar Exotics</a>
           <button class="navbar-toggler collapsed" type="button" data-toggle="collapse"data-target="#navbarResponsive">
                 <span class="custom-toggler-icon"><i class="fas fa-bars"></i></span>
           </button>

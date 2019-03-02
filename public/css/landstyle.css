@@ -63,7 +63,10 @@ height:100px;
 }
 .home-inner{
   height:100vh;
-  background-image:url('/img/jungle3.jpg');
+  background-image:url('/img/Mascotas-2.jpg');
+  background-repeat:no-repeat;
+ background-size:cover;
+
 }
 .caption{
   width:100%;
